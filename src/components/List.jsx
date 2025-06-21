@@ -10,5 +10,5 @@ function List({ items, deleteItem, editItem}){
         </ul>
     );
 }
-
+ 
 export default List;
